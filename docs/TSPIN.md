@@ -284,17 +284,43 @@ Let's look at an alternative of stacked tsds.
 
 ![](https://i.imgur.com/AM9rnUQ.png)
 
-This LST shape has the potential for 2 tsds, much like the STSD, but it takes up much more time and space. Having more time means you don't c
+This LST shape has the potential for 2 tsds, much like the STSD, but it takes up much more time and space. If you don't have both T's immediately, you aren't forced to upstack into a dead board. And once the second T comes in, you won't be left with a 2-block well, which is very hard to make more T-spins from.
+
+In other words, this shape is much less of a commitment than STSD.
 
 
 
 ### TST?
 
+TSTs usually leave an unfriendly shape.  The TST shape requires a kick notch, which leaves an overhang, like so:
 
+(i'm too lazy to get a picture lol)
 
+This overhang usually requires a tuck to fix afterwards.
 
+Some extremely good tetris players (most notably Kazu) make good use of TSTs, and find good ways to resolve those overhangs - for instance, using the S- or Z-pieces to form a T-spin with the resulting garbage, or setting up so that the tuck fix finishes setting up a tetris.  However, for the majority of players, going for TSTs messes up their board and makes it harder to send B2B.
 
 ### When to tss?
+
+While TSD setups are cool, in multiplayer TSDs are only one part of playing. Other factors, like keeping a clean stack, opening up your well, and maintaining back-to-back, also need to be considered. In some cases, taking a T-Spin Single instead of a T-Spin Double can help with one or more of these factors.
+
+For instance:
+
+In some situations, you'll have a T-shape over some garbage, but making the TSD would cover up the hole. For instance, in a stack like this:
+
+(picture not found lol)
+
+the T-shape is obvious but completing the T-shape and putting the overhang on the right side (say, by placing a Z-piece) would cover up the well:
+
+(the well is covered by the block that formed the overhang)
+
+In this situation, it is usually better to take the T-spin single, so that you can clear the well.
+
+In other situations, creating a T-spin single might set up for the next attack. In this case, both a TSS and a TSD are possible, but the TSS sets up for an immediate tetris:
+
+(hopefully this is easy to figure out)
+
+If you have an I piece coming up, it's usually better to take the TSS so you can tetris immediately afterwards.
 
 How to practice 
 
